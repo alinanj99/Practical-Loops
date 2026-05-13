@@ -1,3 +1,4 @@
+//Part 1
 // Loop through all numbers from 1 to 100.
 // If a number is divisible by 3, log “Fizz.”
 // If a number is divisible by 5, log “Buzz.”
